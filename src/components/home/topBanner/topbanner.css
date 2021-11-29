@@ -1,0 +1,30 @@
+.top-banner-container{
+  text-align: center;
+  padding:20px 0px;
+}
+.img-container img{
+    width: 50%;
+    border-radius: 50%;
+    border: 15px solid rgb(255, 255, 255);
+}
+
+@media only screen and (min-width: 600px) {
+
+    .top-banner-container{
+        align-items: center;
+    }
+    .img-container{
+        text-align: right;   
+    }
+    .info-container{
+        text-align: left;
+    }
+
+}
+
+@media only screen and (max-width: 600px) {
+    .top-banner-container{
+        grid-gap: 40px;
+    }
+}
+
