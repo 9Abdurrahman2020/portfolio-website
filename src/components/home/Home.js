@@ -4,6 +4,9 @@ import Projects from './projects/Projects';
 import Skills from './Skills/Skills';
 import TopBanner from './topBanner/TopBanner';
 
+
+
+
 const Home = () => {
     return (
         <div>
