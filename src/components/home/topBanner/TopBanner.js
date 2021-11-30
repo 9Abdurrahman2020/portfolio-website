@@ -14,7 +14,7 @@ const TopBanner = () => {
                 <h2>Abdur Rahman</h2>
                 <p>Hi i'm Abdur Rahman, A Frontend web developer</p>
                 <div className="btn-container">
-                    <Button className="me-3" variant="outline-primary">Download Resume</Button>
+                    <a target="_blank" href="https://drive.google.com/file/d/1geFmhzCM7oKrFQI9094Wf76nfaXZaWFu/view?usp=sharing"><Button className="me-3" variant="outline-primary">Download Resume</Button></a>
                     <Button variant="outline-secondary">Contact</Button>
                 </div>
             </div>

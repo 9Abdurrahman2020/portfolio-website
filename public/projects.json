@@ -1,0 +1,60 @@
+[
+    {
+        "id":1,
+        "title":"Organic Toy",
+        "subTitle":"A Toy Selling Website",
+        "des":"This is a simple e-commerce type toy selling website. User have to logged in or register to order any toy,After successfully ordered he/she can see their order and also cancel the order. A user can express his/her feedback about this website by giving a user review. There is a Admin panel/dashboard also , a admin can see all the placed ordered together and admin can approve or delete the order. Admin has the power to make another user make admin. He can add a new product this product will show in the home page first. A admin can modify or delete the existing products also.",
+        "image":{
+            "ss1":"https://i.ibb.co/71GSJGQ/Screenshot-90.png",
+            "ss2":"https://i.ibb.co/SXhxbXC/Screenshot-98.png",
+            "ss3":"https://i.ibb.co/BnCV19d/Screenshot-99.png"
+        },
+        "technology":"HTML5, CSS3, Bootstrap, Javascript, React, React Router, Context api, Nodejs, Express, Mongodb, Firebase Authentication, etc",
+        "websiteLink":"https://organic-toys.web.app/",
+        "serverCode":"https://github.com/9Abdurrahman2020/Organic-toys-server",
+        "clientCode":"https://github.com/9Abdurrahman2020/Organic-toys"
+    },
+    {
+        "id":2,
+        "title":"Touroo",
+        "subTitle":"A Tour booking organizations website",
+        "des":"This is a tour booking website. The user have to logged in using google to book any trip. there are lot's of trip available, Though there is not any admin or dashboard in this website a logged in user can add a new trip and this trip also add in the trip page. A user can see his/her ordered trip and cancel the as well. There is a extra route as well for seeing all those all placed by all users.",
+        "image":{
+            "ss1":"https://i.ibb.co/vHd4Hpy/Screenshot-89.png",
+            "ss2":"https://i.ibb.co/4tGggKk/Screenshot-100.png",
+            "ss3":"https://i.ibb.co/zZWB47y/Screenshot-101.png"
+        },
+        "technology":"HTML5, CSS3, Bootstrap, Javascript, React, React Router, Context api, Nodejs, Express, Mongodb, Firebase Authentication, etc",
+        "websiteLink":"https://touroo-58cfd.web.app/",
+        "serverCode":"https://github.com/9Abdurrahman2020/Touroo-server",
+        "clientCode":"https://github.com/9Abdurrahman2020/Touroo"
+    },
+    {
+        "id":3,
+        "title":"MediLab",
+        "subTitle":"A Doctors appointments taking website",
+        "des":"This is a diagonestic lab type website. Here one can see all of our services we provide. Our tests we do all lot's more. We have lot's of verity of doctors and a user can book any of the doctors appointment But make sure he/she logged in . We provides several type of sign up process like register with email and pass, sign in with your google account also get access by ones github account. There is a filter option as well for seeing only men and women doctors",
+        "image":{
+            "ss1":"https://i.ibb.co/VJ21mjK/Screenshot-106.png",
+            "ss2":"https://i.ibb.co/4TCSvvn/Screenshot-104.png",
+            "ss3":"https://i.ibb.co/Dts7WQb/Screenshot-105.png"
+        },
+        "technology":"HTML5, CSS3, Bootstrap, Javascript, React, React Router, Context api, Firebase Authentication, etc",
+        "websiteLink":"https://doctors-house-bdb29.web.app/",
+        "clientCode":"https://github.com/9Abdurrahman2020/mediLab"
+    },
+    {
+        "id":4,
+        "title":"Honda CBR",
+        "subTitle":"A honda cbr website",
+        "des":"This is a a static website to get an appearance of the company in online. Here a visitor can see our some of the bikes , some exciting news about our campaign. a visitor also can attend servey called of his/her most favorite bike. We also add some frequently asked question about our company",
+        "image":{
+            "ss1":"https://i.ibb.co/VgYBhhd/Screenshot-107.png",
+            "ss2":"https://i.ibb.co/1dkZQzk/Screenshot-108.png",
+            "ss3":"https://i.ibb.co/tXrH3tZ/Screenshot-109.png"
+        },
+        "technology":"HTML5, CSS3 and Bootstrap5",
+        "websiteLink":"https://honda-cbr-assignment-3-abdur-rahman.netlify.app/",
+        "clientCode":"https://github.com/9Abdurrahman2020/honda-cbr"
+    }
+]
