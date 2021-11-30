@@ -1,5 +1,6 @@
 import React from 'react';
-import { Button, Row } from 'react-bootstrap';
+import { Button, Nav, Row } from 'react-bootstrap';
+import { HashLink } from 'react-router-hash-link';
 import './topbanner.css';
 
 const TopBanner = () => {
@@ -15,7 +16,8 @@ const TopBanner = () => {
                 <p>Hi i'm Abdur Rahman, A Frontend web developer</p>
                 <div className="btn-container">
                     <a target="_blank" href="https://drive.google.com/file/d/1geFmhzCM7oKrFQI9094Wf76nfaXZaWFu/view?usp=sharing"><Button className="me-3" variant="outline-primary">Download Resume</Button></a>
-                    <Button variant="outline-secondary">Contact</Button>
+                    <HashLink to="/#contact"><Button variant="outline-secondary">Contact Me</Button></HashLink>
+                    
                 </div>
             </div>
 

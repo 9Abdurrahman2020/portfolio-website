@@ -17,6 +17,7 @@ const Navigation = () => {
                         <Nav.Link target="_blank" href="https://drive.google.com/file/d/1geFmhzCM7oKrFQI9094Wf76nfaXZaWFu/view?usp=sharing">Resume</Nav.Link>
                         <Nav.Link ><HashLink style={{textDecoration:'none',color:'gray'}} to="/#projects">Projects</HashLink></Nav.Link>
                         <Nav.Link ><HashLink style={{textDecoration:'none',color:'gray'}} to="/#contact">Contact</HashLink></Nav.Link>
+                        <Nav.Link ><Link style={{textDecoration:'none',color:'gray'}} to="/blogs">Blogs</Link></Nav.Link>
                     </Nav>
                     </Navbar.Collapse>
                 </Container>

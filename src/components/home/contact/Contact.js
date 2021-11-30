@@ -12,9 +12,8 @@ const Contact = () => {
     return (
         <div id="contact" className="container">
             <h2 className="text-center my-5 text-danger">Contact <span className="text-success">Me</span></h2>
-            <Row>
-                <div className="col-md-3"></div>
-            <div className="col-md-6">
+            <Row className="g-3">
+            <div className="col-md-7">
                 <form onSubmit={sendEmail}>
                     <div data-aos="fade-up" data-aos-duration="800" class="mb-3">
                         <input type="text" name="name" class="form-control" placeholder="Full Name"/>
@@ -33,7 +32,16 @@ const Contact = () => {
                     </div>
                 </form>
                 </div>
-                <div className="col-md-3"></div>
+                <div className="col-md-5">
+                    <div data-aos-duration="900" data-aos="fade-up">
+                        <h5><i class="fas fa-mobile"></i> Phone </h5>
+                        <p> +8801648308424</p>
+                        <h5><i class="fas fa-envelope-open-text"></i> Email </h5>
+                        <p>Dev.Aburrahman01@gmail.com</p>
+                        <h5> <i class="fas fa-map-marker-alt"></i> Location</h5>
+                        <p>Chandpur, Bangladesh</p>
+                    </div>
+                </div>
             </Row>
         </div>
     );
